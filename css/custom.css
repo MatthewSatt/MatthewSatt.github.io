@@ -1,1 +1,14 @@
 /*! Place your custom styles here */
+
+.projectholder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.project{
+    max-width: 16%;
+
+}
